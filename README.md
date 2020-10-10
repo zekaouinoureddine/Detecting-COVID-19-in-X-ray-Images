@@ -36,9 +36,15 @@ As you may know, before creating a DL model that can do a specific task, we need
 ### Results Section
 - Accuracies
 
+
 - Accuracy and Loss graphs
+![](accu.png)
 
 - Confusion Matrix
+![](mat.png)
+
+- Predictions
+-![](pred.png)
 
 ---
 ### Discussion Section
@@ -48,6 +54,8 @@ As you may know, before creating a DL model that can do a specific task, we need
 
 ---
 ### References
+-[Automated detection of COVID-19 cases using deep neural networks with X-ray images](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187882/)
+-[]
 
 ---
 ### Author infos
