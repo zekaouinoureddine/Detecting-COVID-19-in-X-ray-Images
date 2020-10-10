@@ -36,18 +36,18 @@ As you may know, before creating a DL model that can do a specific task, we need
 ### Results Section
 - Accuracies
 <table>
-  <thead><tr><th>  </th><th> Training </th><th> Validation </th> <th> Test </th><th> Age </th></tr></thead>
+  <thead><tr><th>  </th><th> Training </th><th> Validation </th> <th> Test </th></tr></thead>
   <tr>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
+    <td>Accuracy</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
   </tr>
   <tr>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
+    <td>Loss</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
   </tr>
 </table>
 
