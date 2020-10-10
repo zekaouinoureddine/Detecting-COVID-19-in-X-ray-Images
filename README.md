@@ -61,7 +61,7 @@ As you may know, before creating a DL model that can do a specific task, we need
     </tr>
   <tr>
     <td><table><img src="mat.png" alt="accuracy Vs. val_accuracy" width="500" height="500" /></table></td>
-    <td><table><img src="pred.png" alt="accuracy Vs. val_accuracy" width="550" height="500" /></table></td>
+    <td><table><img src="pred.png" alt="accuracy Vs. val_accuracy" width="700" height="500" /></table></td>
   </tr>
 
 </table>
