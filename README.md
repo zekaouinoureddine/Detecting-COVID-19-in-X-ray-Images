@@ -55,7 +55,7 @@ As you may know, before creating a DL model that can do a specific task, we need
 <td><table>
   <thead><tr><th> Training and Validation Loss/Accuracy</th></tr></thead>
   <tr>
-      <td><img src="acc.png" alt="Mon image" /></td>
+      <td><img src="acc.png" alt="accuracy Vs. val_accuracy" width="100" height="50" /></td>
   </tr>
 </table><td>
     </tr>
