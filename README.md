@@ -37,27 +37,24 @@ As you may know, before creating a DL model that can do a specific task, we need
 - Accuracies
 <table>
   <tr>
-  <td><table>
-    <thead><tr><th>  </th><th> Training </th><th> Validation </th> <th> Test </th></tr></thead>
-    <tr>
-      <td>Accuracy</td>
-      <td>?</td>
-      <td>?</td>
-      <td>?</td>
-    </tr>
-    <tr>
+    <td>
+      <table>
+        <thead>
+          <tr>
+            <th>  </th><th> Training </th><th> Validation </th> <th> Test </th></tr></thead><tr>
+        <td>Accuracy</td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+        </tr>
+        <tr>
       <td>Loss</td>
       <td>?</td>
       <td>?</td>
       <td>?</td>
     </tr>
     </table></td>
-<td><table>
-  <thead><tr><th> Training and Validation Loss/Accuracy</th></tr></thead>
-  <tr>
       <td><img src="acc.png" alt="accuracy Vs. val_accuracy" width="450" height="300" /></td>
-  </tr>
-</table><td>
     </tr>
   <tr>
     <td><table><img src="mat.png" alt="accuracy Vs. val_accuracy" width="500" height="500" /></table></td>
@@ -65,7 +62,9 @@ As you may know, before creating a DL model that can do a specific task, we need
   </tr>
 
 </table>
+
 ---
+
 ### Discussion Section
 
 ---
@@ -74,7 +73,8 @@ As you may know, before creating a DL model that can do a specific task, we need
 ---
 ### References
 -[Automated detection of COVID-19 cases using deep neural networks with X-ray images](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187882/)
--[]
+-[Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
+-[Plants Identification](https://github.com/zekaouinoureddine/Plants_Identification_DL_SI)
 
 ---
 ### Author infos
