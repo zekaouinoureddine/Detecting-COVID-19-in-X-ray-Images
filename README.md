@@ -60,25 +60,11 @@ As you may know, before creating a DL model that can do a specific task, we need
 </table><td>
     </tr>
   <tr>
-    <td><table></table></td>
-    <td><table></table></td>
+    <td><table><img src="mat.png" alt="accuracy Vs. val_accuracy" width="450" height="300" /></table></td>
+    <td><table><img src="pred.png" alt="accuracy Vs. val_accuracy" width="450" height="300" /></table></td>
   </tr>
 
 </table>
-
-
-- Accuracy and Loss graphs
-
-![](acc.png)
-
-- Confusion Matrix
-
-![](mat.png)
-
-- Predictions
-
-![](pred.png)
-
 ---
 ### Discussion Section
 
