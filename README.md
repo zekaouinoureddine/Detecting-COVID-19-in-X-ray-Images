@@ -35,7 +35,7 @@ As you may know, before creating a DL model that can do a specific task, we need
 ---
 ### Results Section
 - Accuracies
-<table class="center">
+<table style="padding:10px">
   <tr>
     <td>
       <table>
@@ -62,13 +62,6 @@ As you may know, before creating a DL model that can do a specific task, we need
     <td><table><img src="pred.png" alt="accuracy Vs. val_accuracy" width="500" height="300" /></table></td>
   </tr>
 </table>
-<style>
-  .center {
-  margin-left: auto;
-  margin-right: auto;
-  }
-  </style>
-  
 ---
 
 ### Discussion Section
