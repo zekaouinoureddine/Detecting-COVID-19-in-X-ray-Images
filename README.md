@@ -35,8 +35,7 @@ As you may know, before creating a DL model that can do a specific task, we need
 ---
 ### Results Section
 - Accuracies
-<table style=" margin-left: auto;
-  margin-right: auto;">
+<table style="margin-left: auto;margin-right: auto;">
   <tr>
     <td>
       <table>
