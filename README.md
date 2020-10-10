@@ -35,34 +35,30 @@ As you may know, before creating a DL model that can do a specific task, we need
 ---
 ### Results Section
 - Accuracies
-<table style="padding:10px">
+<table>
+  <thead>
+    <tr><th></th><th> Training </th><th> Validation </th> <th> Test </th></tr></thead>
   <tr>
-    <td>
-      <table>
-        <thead>
-          <tr><th></th><th> Training </th><th> Validation </th> <th> Test </th></tr></thead>
-        <tr>
-          <td>Accuracy</td>
-          <td>?</td>
-          <td>?</td>
-          <td>?</td>
-        </tr>
-        <tr>
-          <td>Loss</td>
-          <td>?</td>
-          <td>?</td>
-          <td>?</td>
-        </tr>
-      </table>
-    </td>
-    <td><div>Accuracy and Loss graphs:</div><img src="acc.png" alt="accuracy Vs. val_accuracy" width="450" height="300" /></td>
+    <td>Accuracy</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
   </tr>
   <tr>
-    <td><table><div>Confusion Matrix:</div><img src="mat.png" alt="accuracy Vs. val_accuracy" width="300" height="300" /></table></td>
-    <td><table><div>Prediction:</div><img src="pred.png" alt="accuracy Vs. val_accuracy" width="500" height="300" /></table></td>
+    <td>Loss</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
   </tr>
 </table>
+- Training and Validation Accuracy/Loss
+![](acc.png)
 
+- Confusion MAtrix
+![](mat.png)
+
+- Prediction
+![](pred.png)
 
 ---
 
