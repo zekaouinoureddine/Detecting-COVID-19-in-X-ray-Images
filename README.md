@@ -34,7 +34,7 @@ As you may know, before creating a DL model that can do a specific task, we need
 - Jupyter NoteBook in Colab
 ---
 ### Results Section
-- **Accuracies**
+- **Summary of Accuracies and Losses :**
 <table>
   <thead>
     <tr><th></th><th> Training </th><th> Validation </th> <th> Test </th></tr></thead>
@@ -56,11 +56,11 @@ As you may know, before creating a DL model that can do a specific task, we need
 
  ![](acc.png)
 
-- Confusion MAtrix :
+- **Confusion Matrix :**
 
  ![](mat.png)
 
-- Prediction :
+- **Prediction :**
 
  ![](pred.png)
 
