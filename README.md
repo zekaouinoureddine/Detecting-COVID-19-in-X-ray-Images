@@ -38,13 +38,16 @@ As you may know, before creating a DL model that can do a specific task, we need
 
 
 - Accuracy and Loss graphs
+
 ![](accu.png)
 
 - Confusion Matrix
+
 ![](mat.png)
 
 - Predictions
--![](pred.png)
+
+![](pred.png)
 
 ---
 ### Discussion Section
