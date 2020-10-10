@@ -58,7 +58,7 @@ As you may know, before creating a DL model that can do a specific task, we need
     <td><img src="acc.png" alt="accuracy Vs. val_accuracy" width="450" height="300" /></td>
   </tr>
   <tr>
-    <td><table><img src="mat.png" alt="accuracy Vs. val_accuracy" width="300" height="300" /></table></td>
+    <td><table><div>Confusion matrix</div><img src="mat.png" alt="accuracy Vs. val_accuracy" width="300" height="300" /></table></td>
     <td><table><img src="pred.png" alt="accuracy Vs. val_accuracy" width="500" height="300" /></table></td>
   </tr>
 </table>
