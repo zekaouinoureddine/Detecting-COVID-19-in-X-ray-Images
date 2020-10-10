@@ -26,15 +26,15 @@ I have only one tip before we get dive into our amazing project, please do not u
 Recent findings obtained using radiology imaging techniques suggest that such images contain salient information about the COVID-19 virus. Application of advanced artificial intelligence (AI) techniques coupled with radiological imaging can be helpful for the accurate detection of this disease and can also be assistive to overcome the problem of a lack of specialized physicians in remote villages.
 
 ##### How will we be solving using this data?
-As you may know, before creating a DL model that can do a specific task, we need to train it first using some similar data. Therefore, our model will be exposed to a new data that have never seen before, then it will be able to its job more efficiently than humans b, if it trained well.
+As you may know, before creating a DL model that can do a specific task, we need to train it first using some similar data. Therefore, our model will be exposed to new data that have never seen before, then it will be able to do its job more efficiently than humans, if it've trained well.
 
 ---
 ### Technologies
-- Python (TenserFlow, Keras, Skit-Learn, Pandas, Numpy…etc)
+- Python (TensorFlow, Keras, Skit-Learn, Pandas, Numpy…etc)
 - Jupyter NoteBook in Colab
 ---
 ### Results Section
-- Accuracies
+- **Accuracies**
 <table>
   <thead>
     <tr><th></th><th> Training </th><th> Validation </th> <th> Test </th></tr></thead>
