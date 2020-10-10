@@ -51,13 +51,14 @@ As you may know, before creating a DL model that can do a specific task, we need
     <td>?</td>
   </tr>
 </table>
-- Training and Validation Accuracy/Loss
+
+- Training and Validation Accuracy/Loss :
 ![](acc.png)
 
-- Confusion MAtrix
+- Confusion MAtrix :
 ![](mat.png)
 
-- Prediction
+- Prediction :
 ![](pred.png)
 
 ---
