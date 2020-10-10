@@ -55,11 +55,11 @@ As you may know, before creating a DL model that can do a specific task, we need
         </tr>
       </table>
     </td>
-    <td><img src="acc.png" alt="accuracy Vs. val_accuracy" width="450" height="300" /></td>
+    <td><div>Accuracy and Loss graphs:</div><img src="acc.png" alt="accuracy Vs. val_accuracy" width="450" height="300" /></td>
   </tr>
   <tr>
     <td><table><div>Confusion Matrix:</div><img src="mat.png" alt="accuracy Vs. val_accuracy" width="300" height="300" /></table></td>
-    <td><table><div>Loss and Accuracy graphs:</div><img src="pred.png" alt="accuracy Vs. val_accuracy" width="500" height="300" /></table></td>
+    <td><table><div>Prediction:</div><img src="pred.png" alt="accuracy Vs. val_accuracy" width="500" height="300" /></table></td>
   </tr>
 </table>
 
