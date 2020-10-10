@@ -36,19 +36,34 @@ As you may know, before creating a DL model that can do a specific task, we need
 ### Results Section
 - Accuracies
 <table>
-  <thead><tr><th>  </th><th> Training </th><th> Validation </th> <th> Test </th></tr></thead>
   <tr>
-    <td>Accuracy</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-  </tr>
+  <td><table>
+    <thead><tr><th>  </th><th> Training </th><th> Validation </th> <th> Test </th></tr></thead>
+    <tr>
+      <td>Accuracy</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <td>Loss</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    </table></td>
+<td><table>
+  <thead><tr><th> Training and Validation Loss/Accuracy</th></tr></thead>
   <tr>
-    <td>Loss</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+      <td>![](acc.png)</td>
   </tr>
+</table><td>
+    </tr>
+  <tr>
+    <td><table></table></td>
+    <td><table></table></td>
+  </tr>
+
 </table>
 
 
