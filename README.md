@@ -47,15 +47,15 @@ As you may know, before creating a DL model that can do a specific task, we need
     <tr><th></th><th> Training </th><th> Validation </th> <th> Test </th></tr></thead>
   <tr>
     <td>Accuracy</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>98.37%</td>
+    <td>98.41%</td>
+    <td>98.39%</td>
   </tr>
   <tr>
     <td>Loss</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>5.09%</td>
+    <td>2.97%</td>
+    <td>10.68</td>
   </tr>
 </table>
 
