@@ -22,7 +22,7 @@ Coming down to business problem, our project aims to create a solution that can 
 
 **Interested Audience**
 
-I have only one tip before we get dive into our amazing project, please do not use this model to detect the novel coronavirus 2019, because the efficient ways are already fixed by the WHO. But students and working professionals in data science are common audience here. So, we may need to fascinate and inspire them all.
+I have only one tip before we get dive into our amazing project, please do not use this model to detect the novel coronavirus 2019, because the efficient ways are already fixed by the [WHO](https://www.who.int/). But students and working professionals in data science are common audience here. So, we may need to fascinate and inspire them all.
 
 ---
 ### Data Section
@@ -76,7 +76,7 @@ As you may know, before creating a DL model that can do a specific task, we need
 ### Discussion Section
 As a data scientist, the results obtained are impressive, and our model is ready to be deployed and go into production. Just one thing, concerning the errors which occurred (see the confusion matrix), of which a little expertise in medicine is required to be able to understand the provenance of these errors and to extirpate them to make our model perfect as much as we can at the level of its predictions
 
-Despite the findings, there was some lack in data. However, we do not have enough data to train our data, especially in the COVID-19 folder.
+Despite the findings, there was some lack in data. However, we do not have enough data to train our model, especially in the COVID-19 folder.
 
 ---
 ### Conclusion
