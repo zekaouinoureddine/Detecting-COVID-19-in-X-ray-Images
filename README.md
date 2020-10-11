@@ -89,7 +89,7 @@ This project can be considered quite successful. Please if you are stuck or have
 
 ---
 ### References
-- [Automated detection of COVID-19 cases using deep neural networks with X-ray images](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187882/)
+- [Automated detection of COVID-19 cases using deep neural networks with X-ray images](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187882/) 
 - [Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
 - [Plants Identification](https://github.com/zekaouinoureddine/Plants_Identification_DL_SI)
 
