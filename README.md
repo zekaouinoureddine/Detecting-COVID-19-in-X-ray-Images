@@ -18,7 +18,7 @@ The novel coronavirus 2019 (COVID-2019), which first appeared in Wuhan city of C
 
 **Detecting COVID-19 in X-ray**
 
-Coming down to business problem, our project aims to create a solution that can prevent COVID-19 in an automated way. This operation will be based on X-ray DataSet. However, the challenge is to find an efficient solution for detecting COVID-19 with a high sort of certainty using deep learning which is the stat-of-art of recent technologies, especially in AI.
+Coming down to business problem, our project aims to create a solution that can prevent COVID-19 in an automated way. This operation will be based on X-ray DataSet. However, the challenge is to find an efficient solution for detecting COVID-19 with a high sort of certainty using deep learning which is the state-of-art of recent technologies, especially in AI.
 
 **Interested Audience**
 
