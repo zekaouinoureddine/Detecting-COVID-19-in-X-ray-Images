@@ -86,7 +86,7 @@ As you may know, before creating a DL model that can do a specific task, we need
 
 ---
 ### Author infos
-- LinkedIn: [Nour Eddinz ZEKAOUI](https://www.linkedin.com/in/nour-eddine-zekaoui-ba43b1177/)
+- LinkedIn: [Nour Eddine ZEKAOUI](https://www.linkedin.com/in/nour-eddine-zekaoui-ba43b1177/)
 ---
 
 [Back To The Top](#detecting-covid-19-in-x-ray-images)
