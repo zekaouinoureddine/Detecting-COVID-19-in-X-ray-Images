@@ -67,8 +67,8 @@ As you may know, before creating a DL model that can do a specific task, we need
 
 Note that :
 
-    . **0** represents **Covid-19**: Person contaminated by the virus
-    . **1** represents **No-findings**: Person not contaminated by the virus
+    - **0** represents **Covid-19**: Person contaminated by the virus
+    - **1** represents **No-findings**: Person not contaminated by the virus
 
  ![](mat.png)
 
