@@ -1,5 +1,5 @@
 # Detecting COVID-19 in X-ray Images
-Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning
+Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning. To understand how we did it, do not hesitate to consult the [Jupyter Notebook file](https://github.com/zekaouinoureddine/Detecting-COVID-19-in-X-ray-Images/blob/main/Detecting%20COVID-19%20in%20X-ray%20images.ipynb)
 ## Table of contents
 - [Business Problem](#business-problem)
 - [Data Section](#data-section)
@@ -74,9 +74,13 @@ As you may know, before creating a DL model that can do a specific task, we need
 ---
 
 ### Discussion Section
+As a data scientist, the results obtained are impressive, and our model is ready to be deployed and go into production. Just one thing, concerning the errors which occurred (see the confusion matrix), of which a little expertise in medicine is required to be able to understand the provenance of these errors and to extirpate them to make our model perfect as much as we can at the level of its predictions
+
+Despite the findings, there was some lack in data. However, we do not have enough data to train our data, especially in the COVID-19 folder.
 
 ---
 ### Conclusion
+This project can be considered quite successful. Please if you are stuck or have any questions, suggestions or room for improvement, do not hesitate to [contact me](https://www.linkedin.com/in/nour-eddine-zekaoui-ba43b1177/) I will be available.
 
 ---
 ### References
