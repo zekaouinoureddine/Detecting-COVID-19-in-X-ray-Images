@@ -93,4 +93,5 @@ This project can be considered quite successful. Please if you are stuck or have
 - LinkedIn: [Nour Eddine ZEKAOUI](https://www.linkedin.com/in/nour-eddine-zekaoui-ba43b1177/)
 ---
  Go to [Jupyter Notebook file](https://github.com/zekaouinoureddine/Detecting-COVID-19-in-X-ray-Images/blob/main/Detecting%20COVID-19%20in%20X-ray%20images.ipynb)
+ 
 [Back To The Top](#detecting-covid-19-in-x-ray-images)
