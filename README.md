@@ -36,7 +36,7 @@ As you may know, before creating a DL model that can do a specific task, we need
 
 ---
 ### Technologies
-- Python (TensorFlow, Keras, Skit-Learn, Pandas, Numpy…etc)
+- Python (TensorFlow, Keras, Scikit-Learn, Pandas, Numpy…etc)
 - Jupyter NoteBook in Colab
 ---
 ### Results Section
